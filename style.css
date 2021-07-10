@@ -1,0 +1,44 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: #232323;
+    padding: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.gridview{
+     display: flex;
+     flex-wrap: wrap;
+    font-family: sans-serif;
+    margin: 10px;
+
+}
+
+.gridview img{
+    border: 2px solid rgb(80, 80, 80);
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+body{
+    background-color: #d8d8d8;
+    margin:10px;
+    border-color: #a0a0ff;
+}
+
+.bodyimg{
+    position: unset;
+}
+
